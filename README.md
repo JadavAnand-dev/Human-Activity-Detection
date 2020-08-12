@@ -11,3 +11,6 @@ How data was recorded :
 By using the sensors(Gyroscope and accelerometer) in a smartphone, they have captured '3-axial
 linear acceleration'(tAcc-XYZ) from accelerometer and '3-axial angular velocity' (tGyro-XYZ) from
 Gyroscope with several variations.
+prefix 't' in those metrics denotes time.
+suffix 'XYZ' represents 3-axial signals in X , Y, and Z directions.
+
