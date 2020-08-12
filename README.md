@@ -7,7 +7,7 @@ activities with a smartphone to their waists. The data is recorded with the help
 (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label
 the data manually.
 
-How data was recorded
+How data was recorded : 
 By using the sensors(Gyroscope and accelerometer) in a smartphone, they have captured '3-axial
 linear acceleration'(tAcc-XYZ) from accelerometer and '3-axial angular velocity' (tGyro-XYZ) from
 Gyroscope with several variations.
