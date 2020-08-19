@@ -14,3 +14,5 @@ Gyroscope with several variations.
 prefix 't' in those metrics denotes time.
 suffix 'XYZ' represents 3-axial signals in X , Y, and Z directions.
 
+Data is taken from https://archive.ics.uci.edu/ml/index.php
+
